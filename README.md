@@ -3,6 +3,9 @@
 This project is a data visualization project from **freeCodeCamp** that analyzes daily page view data from the **freeCodeCamp.org forum**.  
 Using **Pandas**, **Matplotlib**, and **Seaborn**, the project generates multiple visualizations to understand trends, growth, and seasonality in forum traffic.
 
+![Time Series](https://img.shields.io/badge/Time%20Series-Analysis-blue)
+![Trend Analysis](https://img.shields.io/badge/Trend-Analysis-green)
+![Seasonality](https://img.shields.io/badge/Seasonality-Detection-purple)
 ---
 
 ## 📌 Project Overview
@@ -107,6 +110,7 @@ If successful, the output should display:
 ```
 OK
 ```
+---
 ## 📁 Dataset Source
 
 The dataset file used in this project is:
@@ -114,8 +118,11 @@ The dataset file used in this project is:
 fcc-forum-pageviews.csv
 
 This dataset contains daily forum page view counts used for visualization and trend analysis.
-
+---
 ### 🚀 Author
 
 ### **Andy Razon**  
 🌐 Website: andyrazon.website
+---
+📜 License
+This project is part of the freeCodeCamp curriculum and is intended for educational purposes.
